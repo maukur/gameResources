@@ -11,7 +11,7 @@
         "exampleQuestion": "Вы бы хотели сходить на BDSM вечеринку?"
     },
      {
-      "id":"com.artemtishchenko.thesexpeditiongame.sexbasics",
+      "id":"com.artemtishchenko.sexpediton.sexbasics",
       "title":"Сексосновы",
       "description":"7 дней – 7 заданий с которых следует начать.",
       "image":"image_sex_basics",
@@ -22,7 +22,7 @@
       "exampleQuestion": "Девушка облизывает пальцы парня во время секса"
    },
    {
-      "id":"com.artemtishchenko.thesexpeditiongame.sexodrome",
+      "id":"com.artemtishchenko.sexpediton.sexodrome",
       "title":"Сексодром",
       "description":"Две недели бурной радости и новых ощущений.",
       "image":"image_sexodrome",
@@ -33,7 +33,7 @@
         "exampleQuestion": "Парень завязывает глаза девушке перед сексом"
    },
    {
-      "id":"com.artemtishchenko.thesexpeditiongame.acrobatics",
+      "id":"com.artemtishchenko.sexpediton.acrobatics",
       "title":"Акробатика",
       "description":"28 постельных трюков чтобы попробовать всё.",
       "image":"image_acrobatics",
@@ -44,7 +44,7 @@
         "exampleQuestion": "Исполните позу ножниц"
    },
    {
-      "id":"com.artemtishchenko.thesexpeditiongame.hisweek",
+      "id":"com.artemtishchenko.sexpediton.hisweek",
       "title":"Его неделя",
       "description":"Организуйте самую лучшую неделю в его жизни.",
       "image":"image_his_week",
@@ -55,7 +55,7 @@
       "exampleQuestion": "Девушка делает мниет парню из под стола"
    },
    {
-      "id":"com.artemtishchenko.thesexpeditiongame.herweek",
+      "id":"com.artemtishchenko.sexpediton.herweek",
       "title":"Её неделя",
       "description":"Неделя исполнения желаний. Она скажет спасибо",
       "image":"image_her_week",
@@ -66,8 +66,8 @@
         "exampleQuestion": "Парень медленно облизывает и ласкает девушку с ног до головы"
    },
    {
-      "id":"com.artemtishchenko.thesexpeditiongame.languagesoftheworld",
-      "title":"Языки мира",
+      "id":"com.artemtishchenko.sexpediton.languagesoftheworld",
+      "title":"Гимнастика для языка",
       "description":"14 способов доставить наслаждение орально.",
       "image":"image_languages_of_the_world",
       "itemsInSet":14,
@@ -77,7 +77,7 @@
         "exampleQuestion": "Девушка берет в рот пару ледяных кубиков и делает минет"
    },
    {
-      "id":"com.artemtishchenko.thesexpeditiongame.obscene",
+      "id":"com.artemtishchenko.sexpediton.obscene",
       "title":"Непристойный",
       "description":"Почти месяц ежедневных развлечений на грани.",
       "image":"image_obscene",
@@ -88,7 +88,7 @@
         "exampleQuestion": "Займитесь петтингом в такси"
    },
    {
-      "id":"com.artemtishchenko.thesexpeditiongame.exotic",
+      "id":"com.artemtishchenko.sexpediton.exotic",
       "title":"Экзотика",
       "description":"В Советском Союзе такого секса точно не было.",
       "image":"image_exotic",
@@ -99,7 +99,7 @@
         "exampleQuestion": "Девушка становится обеденным столом, а потом десертом"
    },
    {
-      "id":"com.artemtishchenko.thesexpeditiongame.mostdaring",
+      "id":"com.artemtishchenko.sexpediton.mostdaring",
       "title":"Самый смелый",
       "description":"Большой набор экстремальных секс-развлечений.",
       "image":"image_most_daring",
