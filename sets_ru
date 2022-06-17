@@ -1,0 +1,222 @@
+[
+ {
+        "id": "com.artemtishchenko.sexpediton.premium",
+        "title": "Премиум",
+        "description": "3 ДНЯ БЕСПЛАТНО!\nНе отказывайте себе ни в чём, доступны все наборы.",
+        "image": "image_acquaintance",
+        "itemsInSet": 500,
+        "isPopular": true,
+        "difficult": 1,
+        "detailDescription": "Вы точно узнаете и откроете что-то новое для себя и своего партнера",
+        "exampleQuestion": "Вы бы хотели сходить на BDSM вечеринку?"
+    },
+    {
+        "id": "com.artemtishchenko.sexpediton.alonebro",
+        "title": "Ты один, бро",
+        "description": "Календарь для тех, кому нужен отдых от дам.",
+        "image": "image_single_bro",
+        "itemsInSet": 7,
+        "isPopular": false,
+        "difficult": 4,
+        "detailDescription": "Этот набор только для тебя. Сможешь отдохнуть от женского внимания и прекрасно провести время.",
+        "exampleQuestion": "Устрой дегустацию пива"
+    },
+    {
+        "id": "com.artemtishchenko.sexpediton.fatallady",
+        "title": "Роковая леди",
+        "description": "Леди пора потратить немного времени на себя.",
+        "image": "image_fatal_lady",
+        "itemsInSet": 7,
+        "isPopular": false,
+        "difficult": 4,
+        "detailDescription": "Посвятите время только себе, наслаждаясь всеми красками жизни, и собирая восторженные взгляды мужчин",
+        "exampleQuestion": "Распечатай вдохновляющую цитату и поставь ее в рамку"
+    },
+    {
+        "id": "com.artemtishchenko.sexpediton.offebruary",
+        "title": "14 февраля",
+        "description": "Адвент календарь на неделю до дня влюбленных",
+        "image": "image_valentine_day",
+        "itemsInSet": 7,
+        "isPopular": false,
+        "difficult": 2,
+        "detailDescription": "Любовь – мероприятие не на один день, а хотя бы на неделю. Проведите её с любимым.",
+        "exampleQuestion": "Распечатай вдохновляющую цитату и поставь ее в рамку"
+    },
+    {
+        "id": "com.artemtishchenko.sexpediton.birthweek",
+        "title": "Birthweek",
+        "description": "Почему день рождения, а не неделя рождения?",
+        "image": "image_birth_week",
+        "itemsInSet": 7,
+        "isPopular": false,
+        "difficult": 1,
+        "detailDescription": "Разве одного дня достаточно для того, чтобы отметить своё старение? Предлагаем начать заранее.",
+        "exampleQuestion": "Распечатай вдохновляющую цитату и поставь ее в рамку"
+    },
+    {
+        "id": "com.artemtishchenko.sexpediton.womenweek",
+        "title": "Women's week",
+        "description": "Начните готовиться к 8 марта с 1-го марта.",
+        "image": "image_womens_week",
+        "itemsInSet": 7,
+        "isPopular": false,
+        "difficult": 2,
+        "detailDescription": "Женщины любят внимание, и одного дня не достаточно. А вот недельки как раз должно хватить.",
+        "exampleQuestion": "Распечатай вдохновляющую цитату и поставь ее в рамку"
+    },
+    {
+        "id": "com.artemtishchenko.sexpediton.menweek",
+        "title": "Men's week",
+        "description": "Неделя настоящего мужика должна быть такой.",
+        "image": "image_mans_week",
+        "itemsInSet": 7,
+        "isPopular": false,
+        "difficult": 2,
+        "detailDescription": "Мужчинам нужно все время на свете. Дайте им хотя бы неделю, чтобы порадоваться тому, что он мужчина.",
+        "exampleQuestion": "Распечатай вдохновляющую цитату и поставь ее в рамку"
+    },
+    {
+        "id": "com.artemtishchenko.sexpediton.anniversary",
+        "title": "Годовщина",
+        "description": "Вы столько времени вместе. Надо бы отметить.",
+        "image": "image_aniversary",
+        "itemsInSet": 7,
+        "isPopular": false,
+        "difficult": 3,
+        "detailDescription": "Каждый ли день вы уделяли время друг другу? Задумайтесь об этом на этой неделе перед годовщиной.",
+        "exampleQuestion": "Распечатай вдохновляющую цитату и поставь ее в рамку"
+    },
+   {
+      "id":"com.artemtishchenko.thesexpeditiongame.acquaintance",
+      "title":"Премиум",
+      "description":"3 ДНЯ БЕСПЛАТНО!\nНе отказывайте себе ни в чём, доступны все наборы.",
+      "image":"image_acquaintance",
+      "itemsInSet":500,
+      "isPopular":true,
+      "difficult":1,
+      "detailDescription":"Вы точно узнаете и откроете что-то новое для себя и своего партнера",
+      "exampleQuestion":"Вы бы хотели сходить на BDSM вечеринку?"
+   },
+   {
+      "id":"com.artemtishchenko.thesexpeditiongame.sexbasics",
+      "title":"Сексосновы",
+      "description":"7 дней – 7 заданий с которых следует начать.",
+      "image":"image_sex_basics",
+      "itemsInSet":50,
+      "isPopular":false,
+      "difficult":1,
+      "detailDescription":"Никаких больше поцелуев! Пора брать быка за рога! Набор поможет раскрыть ваши предпочтения в сексе.",
+      "exampleQuestion":"Вы бы хотели поиграть в карты на раздевание?"
+   },
+   {
+      "id":"com.artemtishchenko.thesexpeditiongame.sexodrome",
+      "title":"Сексодром",
+      "description":"Две недели бурной радости и новых ощущений.",
+      "image":"image_sexodrome",
+      "itemsInSet":50,
+      "isPopular":false,
+      "difficult":1,
+      "detailDescription":"Данный набор поз и элементов подойдет парам, которые уже изучили основы и готовы погружаться глубже.",
+      "exampleQuestion":"Вы бы хотели поплвать голышом в море?"
+   },
+   {
+      "id":"com.artemtishchenko.thesexpeditiongame.acrobatics",
+      "title":"Акробатика",
+      "description":"28 постельных трюков чтобы попробовать всё.",
+      "image":"image_acrobatics",
+      "itemsInSet":51,
+      "isPopular":false,
+      "difficult":2,
+      "detailDescription":"Эстетика сексуальных развлечений ворвётся в вашу жизнь и разнообразит время, проведенное вдвоём.",
+      "exampleQuestion":"Вы бы хотели заняться сексом в туалете бара?"
+   },
+   {
+      "id":"com.artemtishchenko.thesexpeditiongame.hisweek",
+      "title":"Его неделя",
+      "description":"Организуйте самую лучшую неделю в его жизни.",
+      "image":"image_his_week",
+      "itemsInSet":50,
+      "isPopular":false,
+      "difficult":2,
+      "detailDescription":"7 заданий чтобы доставить удовольствие своему мужчине. Уложите их в одну неделю, и он ее не забудет.",
+      "exampleQuestion":"Вы бы хотели поучаствовать в бесконечной прелюдии?"
+   },
+   {
+      "id":"com.artemtishchenko.thesexpeditiongame.herweek",
+      "title":"Её неделя",
+      "description":"Неделя исполнения желаний. Она скажет спасибо",
+      "image":"image_her_week",
+      "itemsInSet":50,
+      "isPopular":false,
+      "difficult":3,
+      "detailDescription":"Порадуйте свою прекрасную половину. Выполните все секс-задания. Эти 7 дней будут только для неё.",
+      "exampleQuestion":"Вы бы хотели смотреть кино для взрослых одновременно с занятем сексом?"
+   },
+   {
+      "id":"com.artemtishchenko.thesexpeditiongame.languagesoftheworld",
+      "title":"Языки мира",
+      "description":"14 способов доставить наслаждение орально.",
+      "image":"image_languages_of_the_world",
+      "itemsInSet":50,
+      "isPopular":false,
+      "difficult":3,
+      "detailDescription":"Если вы любите оральный секс, то пришло время его разнообразить. Две недели новых ощущений от него.",
+      "exampleQuestion":"Вы бы хотели быть отшлепанным/отшлепанной?"
+   },
+   {
+      "id":"com.artemtishchenko.thesexpeditiongame.obscene",
+      "title":"Непристойный",
+      "description":"Почти месяц ежедневных развлечений на грани.",
+      "image":"image_obscene",
+      "itemsInSet":50,
+      "isPopular":false,
+      "difficult":4,
+      "detailDescription":"Хватит ли у вас сил и смелости? Если да, то вы еще долго будете вспоминать и обсуждать проделанное.",
+      "exampleQuestion":"Вы бы хотели поучаствовать в ролевой игре?"
+   },
+   {
+      "id":"com.artemtishchenko.thesexpeditiongame.exotic",
+      "title":"Экзотика",
+      "description":"В Советском Союзе такого секса точно не было.",
+      "image":"image_exotic",
+      "itemsInSet":50,
+      "isPopular":false,
+      "difficult":4,
+      "detailDescription":"Обычно о таких вещах молчат. Вам предстоит не только обсудить их, но и испытать вместе с партнером.",
+      "exampleQuestion":"Вы бы хотели принять участие в шибари?"
+   },
+   {
+      "id":"com.artemtishchenko.thesexpeditiongame.mostdaring",
+      "title":"Самый смелый",
+      "description":"Большой набор экстремальных секс-развлечений.",
+      "image":"image_most_daring",
+      "itemsInSet":50,
+      "isPopular":false,
+      "difficult":5,
+      "detailDescription":"Если вы смелые, ловкие и умелые, а еще очень пошлые, то попробуйте переступить грани дозволенного.",
+      "exampleQuestion":"Вы бы хотели поучаствовать в порке?"
+   },
+   {
+      "id":"com.artemtishchenko.thesexpeditiongame.alonebro",
+      "title":"Ты один, бро",
+      "description":"Календарь для тех, кому нужен отдых от дам.",
+      "image":"Set_unimaginable_image",
+      "itemsInSet":50,
+      "isPopular":false,
+      "difficult":5,
+      "detailDescription":"Этот набор только для тебя. Сможешь отдохнуть от женского внимания и прекрасно провести время.",
+      "exampleQuestion":"Вы бы хотели поучаствовать в боллбастинге?"
+   },
+   {
+      "id":"com.artemtishchenko.thesexpeditiongame.fatallady",
+      "title":"Роковая леди",
+      "description":"Леди пора потратить немного времени на себя.",
+      "image":"Set_unimaginable_image",
+      "itemsInSet":50,
+      "isPopular":false,
+      "difficult":5,
+      "detailDescription":"Посвятите время только себе, наслаждаясь всеми красками жизни, и собирая восторженные взгляды мужчин",
+      "exampleQuestion":"Вы бы хотели поучаствовать в боллбастинге?"
+   }
+]
