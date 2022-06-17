@@ -10,95 +10,7 @@
         "detailDescription": "Вы точно узнаете и откроете что-то новое для себя и своего партнера",
         "exampleQuestion": "Вы бы хотели сходить на BDSM вечеринку?"
     },
-    {
-        "id": "com.artemtishchenko.sexpediton.alonebro",
-        "title": "Ты один, бро",
-        "description": "Календарь для тех, кому нужен отдых от дам.",
-        "image": "image_single_bro",
-        "itemsInSet": 7,
-        "isPopular": false,
-        "difficult": 4,
-        "detailDescription": "Этот набор только для тебя. Сможешь отдохнуть от женского внимания и прекрасно провести время.",
-        "exampleQuestion": "Устрой дегустацию пива"
-    },
-    {
-        "id": "com.artemtishchenko.sexpediton.fatallady",
-        "title": "Роковая леди",
-        "description": "Леди пора потратить немного времени на себя.",
-        "image": "image_fatal_lady",
-        "itemsInSet": 7,
-        "isPopular": false,
-        "difficult": 4,
-        "detailDescription": "Посвятите время только себе, наслаждаясь всеми красками жизни, и собирая восторженные взгляды мужчин",
-        "exampleQuestion": "Распечатай вдохновляющую цитату и поставь ее в рамку"
-    },
-    {
-        "id": "com.artemtishchenko.sexpediton.offebruary",
-        "title": "14 февраля",
-        "description": "Адвент календарь на неделю до дня влюбленных",
-        "image": "image_valentine_day",
-        "itemsInSet": 7,
-        "isPopular": false,
-        "difficult": 2,
-        "detailDescription": "Любовь – мероприятие не на один день, а хотя бы на неделю. Проведите её с любимым.",
-        "exampleQuestion": "Распечатай вдохновляющую цитату и поставь ее в рамку"
-    },
-    {
-        "id": "com.artemtishchenko.sexpediton.birthweek",
-        "title": "Birthweek",
-        "description": "Почему день рождения, а не неделя рождения?",
-        "image": "image_birth_week",
-        "itemsInSet": 7,
-        "isPopular": false,
-        "difficult": 1,
-        "detailDescription": "Разве одного дня достаточно для того, чтобы отметить своё старение? Предлагаем начать заранее.",
-        "exampleQuestion": "Распечатай вдохновляющую цитату и поставь ее в рамку"
-    },
-    {
-        "id": "com.artemtishchenko.sexpediton.womenweek",
-        "title": "Women's week",
-        "description": "Начните готовиться к 8 марта с 1-го марта.",
-        "image": "image_womens_week",
-        "itemsInSet": 7,
-        "isPopular": false,
-        "difficult": 2,
-        "detailDescription": "Женщины любят внимание, и одного дня не достаточно. А вот недельки как раз должно хватить.",
-        "exampleQuestion": "Распечатай вдохновляющую цитату и поставь ее в рамку"
-    },
-    {
-        "id": "com.artemtishchenko.sexpediton.menweek",
-        "title": "Men's week",
-        "description": "Неделя настоящего мужика должна быть такой.",
-        "image": "image_mans_week",
-        "itemsInSet": 7,
-        "isPopular": false,
-        "difficult": 2,
-        "detailDescription": "Мужчинам нужно все время на свете. Дайте им хотя бы неделю, чтобы порадоваться тому, что он мужчина.",
-        "exampleQuestion": "Распечатай вдохновляющую цитату и поставь ее в рамку"
-    },
-    {
-        "id": "com.artemtishchenko.sexpediton.anniversary",
-        "title": "Годовщина",
-        "description": "Вы столько времени вместе. Надо бы отметить.",
-        "image": "image_aniversary",
-        "itemsInSet": 7,
-        "isPopular": false,
-        "difficult": 3,
-        "detailDescription": "Каждый ли день вы уделяли время друг другу? Задумайтесь об этом на этой неделе перед годовщиной.",
-        "exampleQuestion": "Распечатай вдохновляющую цитату и поставь ее в рамку"
-    },
-   {
-      "id":"com.artemtishchenko.thesexpeditiongame.acquaintance",
-      "title":"Премиум",
-      "description":"3 ДНЯ БЕСПЛАТНО!\nНе отказывайте себе ни в чём, доступны все наборы.",
-      "image":"image_acquaintance",
-      "itemsInSet":500,
-      "isPopular":true,
-      "difficult":1,
-      "detailDescription":"Вы точно узнаете и откроете что-то новое для себя и своего партнера",
-      "exampleQuestion":"Вы бы хотели сходить на BDSM вечеринку?"
-   },
-   {
+     {
       "id":"com.artemtishchenko.thesexpeditiongame.sexbasics",
       "title":"Сексосновы",
       "description":"7 дней – 7 заданий с которых следует начать.",
@@ -197,26 +109,81 @@
       "detailDescription":"Если вы смелые, ловкие и умелые, а еще очень пошлые, то попробуйте переступить грани дозволенного.",
       "exampleQuestion":"Вы бы хотели поучаствовать в порке?"
    },
-   {
-      "id":"com.artemtishchenko.thesexpeditiongame.alonebro",
-      "title":"Ты один, бро",
-      "description":"Календарь для тех, кому нужен отдых от дам.",
-      "image":"Set_unimaginable_image",
-      "itemsInSet":50,
-      "isPopular":false,
-      "difficult":5,
-      "detailDescription":"Этот набор только для тебя. Сможешь отдохнуть от женского внимания и прекрасно провести время.",
-      "exampleQuestion":"Вы бы хотели поучаствовать в боллбастинге?"
-   },
-   {
-      "id":"com.artemtishchenko.thesexpeditiongame.fatallady",
-      "title":"Роковая леди",
-      "description":"Леди пора потратить немного времени на себя.",
-      "image":"Set_unimaginable_image",
-      "itemsInSet":50,
-      "isPopular":false,
-      "difficult":5,
-      "detailDescription":"Посвятите время только себе, наслаждаясь всеми красками жизни, и собирая восторженные взгляды мужчин",
-      "exampleQuestion":"Вы бы хотели поучаствовать в боллбастинге?"
-   }
+    {
+        "id": "com.artemtishchenko.sexpediton.alonebro",
+        "title": "Ты один, бро",
+        "description": "Календарь для тех, кому нужен отдых от дам.",
+        "image": "image_single_bro",
+        "itemsInSet": 7,
+        "isPopular": false,
+        "difficult": 4,
+        "detailDescription": "Этот набор только для тебя. Сможешь отдохнуть от женского внимания и прекрасно провести время.",
+        "exampleQuestion": "Устрой дегустацию пива"
+    },
+    {
+        "id": "com.artemtishchenko.sexpediton.fatallady",
+        "title": "Роковая леди",
+        "description": "Леди пора потратить немного времени на себя.",
+        "image": "image_fatal_lady",
+        "itemsInSet": 7,
+        "isPopular": false,
+        "difficult": 4,
+        "detailDescription": "Посвятите время только себе, наслаждаясь всеми красками жизни, и собирая восторженные взгляды мужчин",
+        "exampleQuestion": "Распечатай вдохновляющую цитату и поставь ее в рамку"
+    },
+    {
+        "id": "com.artemtishchenko.sexpediton.offebruary",
+        "title": "14 февраля",
+        "description": "Адвент календарь на неделю до дня влюбленных",
+        "image": "image_valentine_day",
+        "itemsInSet": 7,
+        "isPopular": false,
+        "difficult": 2,
+        "detailDescription": "Любовь – мероприятие не на один день, а хотя бы на неделю. Проведите её с любимым.",
+        "exampleQuestion": "Распечатай вдохновляющую цитату и поставь ее в рамку"
+    },
+    {
+        "id": "com.artemtishchenko.sexpediton.birthweek",
+        "title": "Birthweek",
+        "description": "Почему день рождения, а не неделя рождения?",
+        "image": "image_birth_week",
+        "itemsInSet": 7,
+        "isPopular": false,
+        "difficult": 1,
+        "detailDescription": "Разве одного дня достаточно для того, чтобы отметить своё старение? Предлагаем начать заранее.",
+        "exampleQuestion": "Распечатай вдохновляющую цитату и поставь ее в рамку"
+    },
+    {
+        "id": "com.artemtishchenko.sexpediton.womenweek",
+        "title": "Women's week",
+        "description": "Начните готовиться к 8 марта с 1-го марта.",
+        "image": "image_womens_week",
+        "itemsInSet": 7,
+        "isPopular": false,
+        "difficult": 2,
+        "detailDescription": "Женщины любят внимание, и одного дня не достаточно. А вот недельки как раз должно хватить.",
+        "exampleQuestion": "Распечатай вдохновляющую цитату и поставь ее в рамку"
+    },
+    {
+        "id": "com.artemtishchenko.sexpediton.menweek",
+        "title": "Men's week",
+        "description": "Неделя настоящего мужика должна быть такой.",
+        "image": "image_mans_week",
+        "itemsInSet": 7,
+        "isPopular": false,
+        "difficult": 2,
+        "detailDescription": "Мужчинам нужно все время на свете. Дайте им хотя бы неделю, чтобы порадоваться тому, что он мужчина.",
+        "exampleQuestion": "Распечатай вдохновляющую цитату и поставь ее в рамку"
+    },
+    {
+        "id": "com.artemtishchenko.sexpediton.anniversary",
+        "title": "Годовщина",
+        "description": "Вы столько времени вместе. Надо бы отметить.",
+        "image": "image_aniversary",
+        "itemsInSet": 7,
+        "isPopular": false,
+        "difficult": 3,
+        "detailDescription": "Каждый ли день вы уделяли время друг другу? Задумайтесь об этом на этой неделе перед годовщиной.",
+        "exampleQuestion": "Распечатай вдохновляющую цитату и поставь ее в рамку"
+    }
 ]
