@@ -10,105 +10,6 @@
         "detailDescription": "Вы точно узнаете и откроете что-то новое для себя и своего партнера",
         "exampleQuestion": "Вы бы хотели сходить на BDSM вечеринку?"
     },
-     {
-      "id":"com.artemtishchenko.sexpediton.sexbasics",
-      "title":"Сексосновы",
-      "description":"7 дней – 7 заданий с которых следует начать.",
-      "image":"image_sex_basics",
-      "itemsInSet":7,
-      "isPopular":false,
-      "difficult":1,
-      "detailDescription":"Никаких больше поцелуев! Пора брать быка за рога! Набор поможет раскрыть ваши предпочтения в сексе.",
-      "exampleQuestion": "Девушка облизывает пальцы парня во время секса"
-   },
-   {
-      "id":"com.artemtishchenko.sexpediton.sexodrome",
-      "title":"Сексодром",
-      "description":"Две недели бурной радости и новых ощущений.",
-      "image":"image_sexodrome",
-      "itemsInSet":14,
-      "isPopular":false,
-      "difficult":1,
-      "detailDescription":"Данный набор поз и элементов подойдет парам, которые уже изучили основы и готовы погружаться глубже.",
-        "exampleQuestion": "Парень завязывает глаза девушке перед сексом"
-   },
-   {
-      "id":"com.artemtishchenko.sexpediton.acrobatics",
-      "title":"Акробатика",
-      "description":"28 постельных трюков чтобы попробовать всё.",
-      "image":"image_acrobatics",
-      "itemsInSet":28,
-      "isPopular":false,
-      "difficult":2,
-      "detailDescription":"Эстетика сексуальных развлечений ворвётся в вашу жизнь и разнообразит время, проведенное вдвоём.",
-        "exampleQuestion": "Исполните позу ножниц"
-   },
-   {
-      "id":"com.artemtishchenko.sexpediton.hisweek",
-      "title":"Его неделя",
-      "description":"Организуйте самую лучшую неделю в его жизни.",
-      "image":"image_his_week",
-      "itemsInSet":7,
-      "isPopular":false,
-      "difficult":2,
-      "detailDescription":"7 заданий чтобы доставить удовольствие своему мужчине. Уложите их в одну неделю, и он ее не забудет.",
-      "exampleQuestion": "Девушка делает мниет парню из под стола"
-   },
-   {
-      "id":"com.artemtishchenko.sexpediton.herweek",
-      "title":"Её неделя",
-      "description":"Неделя исполнения желаний. Она скажет спасибо",
-      "image":"image_her_week",
-      "itemsInSet":7,
-      "isPopular":false,
-      "difficult":2,
-      "detailDescription":"Порадуйте свою прекрасную половину. Выполните все секс-задания. Эти 7 дней будут только для неё.",
-        "exampleQuestion": "Парень медленно облизывает и ласкает девушку с ног до головы"
-   },
-   {
-      "id":"com.artemtishchenko.sexpediton.languagesoftheworld",
-      "title":"Языковая гимнастика",
-      "description":"14 способов доставить наслаждение орально.",
-      "image":"image_languages_of_the_world",
-      "itemsInSet":14,
-      "isPopular":false,
-      "difficult":3,
-      "detailDescription":"Если вы любите оральный секс, то пришло время его разнообразить. Две недели новых ощущений от него.",
-        "exampleQuestion": "Девушка берет в рот пару ледяных кубиков и делает минет"
-   },
-   {
-      "id":"com.artemtishchenko.sexpediton.obscene",
-      "title":"Непристойный",
-      "description":"Почти месяц ежедневных развлечений на грани.",
-      "image":"image_obscene",
-      "itemsInSet":28,
-      "isPopular":false,
-      "difficult":4,
-      "detailDescription":"Хватит ли у вас сил и смелости? Если да, то вы еще долго будете вспоминать и обсуждать проделанное.",
-        "exampleQuestion": "Займитесь петтингом в такси"
-   },
-   {
-      "id":"com.artemtishchenko.sexpediton.exotic",
-      "title":"Экзотика",
-      "description":"В Советском Союзе такого секса точно не было.",
-      "image":"image_exotic",
-      "itemsInSet":7,
-      "isPopular":false,
-      "difficult":4,
-      "detailDescription":"Обычно о таких вещах молчат. Вам предстоит не только обсудить их, но и испытать вместе с партнером.",
-        "exampleQuestion": "Девушка становится обеденным столом, а потом десертом"
-   },
-   {
-      "id":"com.artemtishchenko.sexpediton.mostdaring",
-      "title":"Самый смелый",
-      "description":"Большой набор экстремальных секс-развлечений.",
-      "image":"image_most_daring",
-      "itemsInSet":14,
-      "isPopular":false,
-      "difficult":5,
-      "detailDescription":"Если вы смелые, ловкие и умелые, а еще очень пошлые, то попробуйте переступить грани дозволенного.",
-        "exampleQuestion": "Девушка связывает парня и делает с ним все, что хочет"
-   },
     {
         "id": "com.artemtishchenko.sexpediton.alonebro",
         "title": "Ты один, бро",
@@ -116,7 +17,7 @@
         "image": "image_single_bro",
         "itemsInSet": 7,
         "isPopular": false,
-        "difficult": 2,
+        "difficult": 4,
         "detailDescription": "Этот набор только для тебя. Сможешь отдохнуть от женского внимания и прекрасно провести время.",
         "exampleQuestion": "Устрой дегустацию пива"
     },
@@ -127,7 +28,7 @@
         "image": "image_fatal_lady",
         "itemsInSet": 7,
         "isPopular": false,
-        "difficult": 2,
+        "difficult": 4,
         "detailDescription": "Посвятите время только себе, наслаждаясь всеми красками жизни, и собирая восторженные взгляды мужчин",
         "exampleQuestion": "Распечатай вдохновляющую цитату и поставь ее в рамку"
     },
