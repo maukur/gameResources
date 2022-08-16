@@ -15,7 +15,7 @@
         "title": "Ты один, бро",
         "description": "Календарь для тех, кому нужен отдых от дам.",
         "image": "image_single_bro",
-        "itemsInSet": 7,
+        "itemsInSet": 14,
         "isPopular": false,
         "difficult": 4,
         "detailDescription": "Этот набор только для тебя. Сможешь отдохнуть от женского внимания и прекрасно провести время.",
@@ -26,7 +26,7 @@
         "title": "Роковая леди",
         "description": "Леди пора потратить немного времени на себя.",
         "image": "image_fatal_lady",
-        "itemsInSet": 7,
+        "itemsInSet": 14,
         "isPopular": false,
         "difficult": 4,
         "detailDescription": "Посвятите время только себе, наслаждаясь всеми красками жизни, и собирая восторженные взгляды мужчин",
@@ -37,7 +37,7 @@
         "title": "14 февраля",
         "description": "Адвент календарь на неделю до дня влюбленных",
         "image": "image_valentine_day",
-        "itemsInSet": 7,
+        "itemsInSet": 14,
         "isPopular": false,
         "difficult": 2,
         "detailDescription": "Любовь – мероприятие не на один день, а хотя бы на неделю. Проведите её с любимым.",
@@ -48,7 +48,7 @@
         "title": "Birthweek",
         "description": "Почему день рождения, а не неделя рождения?",
         "image": "image_birth_week",
-        "itemsInSet": 7,
+        "itemsInSet": 14,
         "isPopular": false,
         "difficult": 1,
         "detailDescription": "Разве одного дня достаточно для того, чтобы отметить своё старение? Предлагаем начать заранее.",
@@ -59,7 +59,7 @@
         "title": "Women's week",
         "description": "Начните готовиться к 8 марта с 1-го марта.",
         "image": "image_womens_week",
-        "itemsInSet": 7,
+        "itemsInSet": 14,
         "isPopular": false,
         "difficult": 2,
         "detailDescription": "Женщины любят внимание, и одного дня не достаточно. А вот недельки как раз должно хватить.",
@@ -70,7 +70,7 @@
         "title": "Men's week",
         "description": "Неделя настоящего мужика должна быть такой.",
         "image": "image_mans_week",
-        "itemsInSet": 7,
+        "itemsInSet": 14,
         "isPopular": false,
         "difficult": 2,
         "detailDescription": "Мужчинам нужно все время на свете. Дайте им хотя бы неделю, чтобы порадоваться тому, что он мужчина.",
@@ -81,13 +81,12 @@
         "title": "Годовщина",
         "description": "Вы столько времени вместе. Надо бы отметить.",
         "image": "image_aniversary",
-        "itemsInSet": 7,
+        "itemsInSet": 14,
         "isPopular": false,
         "difficult": 3,
         "detailDescription": "Каждый ли день вы уделяли время друг другу? Задумайтесь об этом на этой неделе перед годовщиной.",
         "exampleQuestion": "Распечатай вдохновляющую цитату и поставь ее в рамку"
-    }
-    ,
+    },
     {
         "id": "com.artemtishchenko.sexpediton.coffe",
         "title": "Кофеманам",
@@ -95,8 +94,19 @@
         "image": "image_new_set",
         "itemsInSet": 7,
         "isPopular": false,
-        "difficult": 3,
+        "difficult": 1,
         "detailDescription": "Набор для тех, кто не может жить без кофе. Поможет отойти от привычных способов потребления.",
+        "exampleQuestion": "Приготовьте кофе для двоих"
+    },
+    {
+        "id": "com.artemtishchenko.sexpediton.sport",
+        "title": "Для спорта",
+        "description": "Помогает не потерять хорошее самочувствие",
+        "image": "image_new_set",
+        "itemsInSet": 7,
+        "isPopular": false,
+        "difficult": 1,
+        "detailDescription": "Набор для гастроэнтузиастов, которые выполнили свои задания и хотят вернуть былую форму.",
         "exampleQuestion": "Приготовьте кофе для двоих"
     }
     ,
@@ -105,7 +115,7 @@
         "title": "Фотографам",
         "description": "Нет идей для нового шедевра? Окажем помощь.",
         "image": "image_new_set",
-        "itemsInSet": 7,
+        "itemsInSet": 1,
         "isPopular": false,
         "difficult": 3,
         "detailDescription": "Ваш лучший снимок еще впереди. Надо не переставать пробовать и совершенствоваться в своем мастерстве",
@@ -118,7 +128,7 @@
         "image": "image_new_set",
         "itemsInSet": 7,
         "isPopular": false,
-        "difficult": 3,
+        "difficult": 1,
         "detailDescription": "Видеоигры – это новый культурный феномен, который нельзя упускать из виду. И вы не упускайте.",
         "exampleQuestion": "Оформите предзаказ на любую игру"
     },
@@ -129,7 +139,7 @@
         "image": "image_new_set",
         "itemsInSet": 7,
         "isPopular": false,
-        "difficult": 3,
+        "difficult": 1,
         "detailDescription": "Открывайте новые места, новые рецепты и новые вкусновые ощущения. Ведь вы это любите.",
         "exampleQuestion": "Устройте дегустацию чипсов с друзьями"
     },
@@ -140,7 +150,7 @@
         "image": "image_new_set",
         "itemsInSet": 7,
         "isPopular": false,
-        "difficult": 3,
+        "difficult": 1,
         "detailDescription": "Чтобы провести день хорошо, нужно его хорошо начать. Утро – самое подходящее время для этого.",
         "exampleQuestion": "Позавтракайте не дома"
     },
@@ -151,7 +161,7 @@
         "image": "image_new_set",
         "itemsInSet": 7,
         "isPopular": false,
-        "difficult": 3,
+        "difficult": 1,
         "detailDescription": "Сколько прекрасных картин было снято в этом веке. А сколько в прошлом. Стоит уделить им время.",
         "exampleQuestion": "Напишите и опубликуйте рецензию к любому фильму"
     },
@@ -162,7 +172,7 @@
         "image": "image_new_set",
         "itemsInSet": 7,
         "isPopular": false,
-        "difficult": 3,
+        "difficult": 1,
         "detailDescription": "Знаете, что такое пост-дед-метал? Или вы предпочитаете кантри? Набор подойдет всем любителям музыки.",
         "exampleQuestion": "Выучите наизусть текст новой песни"
     },
@@ -173,7 +183,7 @@
         "image": "image_new_set",
         "itemsInSet": 7,
         "isPopular": false,
-        "difficult": 3,
+        "difficult": 1,
         "detailDescription": "Возможно вы уже знаете – как добиться успеха в работе. На всякий случай набор поможет не забыть.",
         "exampleQuestion": "Организуйте рабочее пространство"
     },
@@ -184,18 +194,18 @@
         "image": "image_new_set",
         "itemsInSet": 7,
         "isPopular": false,
-        "difficult": 3,
+        "difficult": 1,
         "detailDescription": "Семь дней развлечений для вас и вашего ребенка. Каждый захочется поместить в семейный фотоальбом.",
         "exampleQuestion": "Купите новую игрушку"
     },
     {
         "id": "com.artemtishchenko.sexpediton.travel",
-        "title": "Путешественникам",
+        "title": "Трэвел",
         "description": "Для тех, кто не может без смены обстановки.",
         "image": "image_new_set",
         "itemsInSet": 7,
         "isPopular": false,
-        "difficult": 3,
+        "difficult": 1,
         "detailDescription": "Если вы не можете сидеть в четырех стенах, этот набор поможет вам разнообразить будни.",
         "exampleQuestion": "Отправьтесь в новое место без навигатора"
     },
@@ -206,7 +216,7 @@
         "image": "image_new_set",
         "itemsInSet": 7,
         "isPopular": false,
-        "difficult": 3,
+        "difficult": 1,
         "detailDescription": "Не важно, на чем вы разрабатываете, важно разработать для себя творческую и запоминающуюся неделю.",
         "exampleQuestion": "Создайте своего Telegram-бота"
     },
@@ -217,7 +227,7 @@
         "image": "image_new_set",
         "itemsInSet": 7,
         "isPopular": false,
-        "difficult": 3,
+        "difficult": 1,
         "detailDescription": "Талантливый человек талантлив во всем. Попробуйте доказать это с набором для творческих личностей.",
         "exampleQuestion": "Нарисуйте что угодно на продажу"
     },
@@ -228,7 +238,7 @@
         "image": "image_new_set",
         "itemsInSet": 7,
         "isPopular": false,
-        "difficult": 3,
+        "difficult": 1,
         "detailDescription": "Некоторые умеют следить за собой без лишних напоминаний. Вспомните еще, что нужно радовать себя.",
         "exampleQuestion": "Сделайте маникюр"
     },
@@ -239,7 +249,7 @@
         "image": "image_new_set",
         "itemsInSet": 7,
         "isPopular": false,
-        "difficult": 3,
+        "difficult": 1,
         "detailDescription": "Мало уметь забить гвоздь. Набор призван развить ваши инженерные способности и направить во благо.",
         "exampleQuestion": "Займитесь кабель-менеджментом, спрячьте все ненужное"
     },
@@ -250,7 +260,7 @@
         "image": "image_new_set",
         "itemsInSet": 7,
         "isPopular": false,
-        "difficult": 3,
+        "difficult": 1,
         "detailDescription": "Для всех, кто чувствует себя молодым и никогда не откажется от хорошей тусовки с друзьями.",
         "exampleQuestion": "Заплатите диджею в клубе за песню"
     },
@@ -261,7 +271,7 @@
         "image": "image_new_set",
         "itemsInSet": 7,
         "isPopular": false,
-        "difficult": 3,
+        "difficult": 1,
         "detailDescription": "Данный набор развивает навык домоседа. Можно будет хорошо проводить время не выходя за порог.",
         "exampleQuestion": "Поставьте умные лампочки или светильники"
     },
@@ -272,7 +282,7 @@
         "image": "image_new_set",
         "itemsInSet": 7,
         "isPopular": false,
-        "difficult": 3,
+        "difficult": 1,
         "detailDescription": "Можете позволить себе что-то спонтанное и не совсем обыденное? Значит эти задания для вас.",
         "exampleQuestion": "Встретьте туриста и пойдите вместе с ним"
     },
@@ -283,7 +293,7 @@
         "image": "image_new_set",
         "itemsInSet": 7,
         "isPopular": false,
-        "difficult": 3,
+        "difficult": 1,
         "detailDescription": "Задания для пранкеров. Возможно после прохождения этого набора некоторые люди изменят к вам отношение.",
         "exampleQuestion": "Рассылайте мемы про \"Мстителей\""
     },
@@ -294,7 +304,7 @@
         "image": "image_new_set",
         "itemsInSet": 7,
         "isPopular": false,
-        "difficult": 3,
+        "difficult": 1,
         "detailDescription": "Как провести последнюю неделю уходящего года? С заботой о себе, близких, а может и о незнакомых.",
         "exampleQuestion": "Соберите сладкие подарки для близких"
     },
@@ -305,7 +315,7 @@
         "image": "image_new_set",
         "itemsInSet": 7,
         "isPopular": false,
-        "difficult": 3,
+        "difficult": 1,
         "detailDescription": "Если вы не знаете – чем занять себя ночью, здесь есть несколкьо неплохих идей для вас.",
         "exampleQuestion": "Не спите дома до утра"
     }
