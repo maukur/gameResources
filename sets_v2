@@ -45,7 +45,7 @@
    },
    {
       "id":"com.artemtishchenko.sexpediton.acrobatics",
-      "title":"Акробатика level 1",
+      "title":"Акробатика",
       "description":"Это как алфавит, только с секс позами. Без них никуда",
       "image":"image_acrobatics",
       "itemsInSet":7,
@@ -56,7 +56,7 @@
    },
    {
       "id":"com.artemtishchenko.sexpediton.acrobatics2",
-      "title":"Акробатика level 2",
+      "title":"Супер-Акробатика",
       "description":"Эти позы не для всех, но какие же они бомбические",
       "image":"image_acrobatics",
       "itemsInSet":7,
@@ -89,7 +89,7 @@
    },
    {
       "id":"com.artemtishchenko.sexpediton.locations",
-      "title":"Локации по-домашнему",
+      "title":"Досуг дома",
       "description":"А вы уже все попробовали?",
       "image":"image_obscene",
       "itemsInSet":7,
@@ -100,7 +100,7 @@
    },
    {
       "id":"com.artemtishchenko.sexpediton.streetlocations",
-      "title":"Новые локации вне дома",
+      "title":"И в парке тоже",
       "description":"Этот календарь – настоящий челлендж. Рискнете?",
       "image":"image_sexodrome",
       "itemsInSet":7,
