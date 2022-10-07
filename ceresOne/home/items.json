@@ -13,16 +13,16 @@
     "imageUrl" : "https://picsum.photos/200/300",
     "name" : "Июньский драйв",
     "shortDescription" : "Начинаем лето с самых неожиданных впечатлений",
-    "start_date" : "2022-06-01T15:43:26Z",
-    "task_count" : 30
+    "startDate" : "2022-06-01T15:43:26Z",
+    "taskCount" : 30
   },
     {
     "id" : "841be7a9-a499-4036-a9f2-bd57eb182585",
     "imageUrl" : "https://picsum.photos/200/300",
     "name" : "Майский драйв",
     "shortDescription" : "Начинаем лето с самых неожиданных впечатлений",
-    "start_date" : "2022-05-01T15:43:26Z",
-    "task_count" : 20
+    "startDate" : "2022-05-01T15:43:26Z",
+    "taskCount" : 20
   }
   ]
 }
