@@ -4,7 +4,7 @@
     "id" : "eb6cda29-ab20-4c52-9d7f-5de23ab0e7ab",
     "imageUrl" : "https://picsum.photos/200/300",
     "name" : "Promo",
-    "description" : "Описание промо",
+    "shortDescription" : "Описание промо",
   },
   "allowedCalendars":
   [
@@ -12,7 +12,7 @@
     "id" : "841be7a9-a499-4036-a9f2-bd57eb182584",
     "imageUrl" : "https://picsum.photos/200/300",
     "name" : "Июньский драйв",
-    "description" : "Начинаем лето с самых неожиданных впечатлений",
+    "shortDescription" : "Начинаем лето с самых неожиданных впечатлений",
     "start_date" : "2022-06-01T15:43:26Z",
     "task_count" : 30
   },
@@ -20,7 +20,7 @@
     "id" : "841be7a9-a499-4036-a9f2-bd57eb182585",
     "imageUrl" : "https://picsum.photos/200/300",
     "name" : "Мйский драйв",
-    "description" : "Начинаем лето с самых неожиданных впечатлений",
+    "shortDescription" : "Начинаем лето с самых неожиданных впечатлений",
     "start_date" : "2022-05-01T15:43:26Z",
     "task_count" : 20
   }
