@@ -1,33 +1,54 @@
 {
-  "banner" : 
-  {
-    "id" : "eb6cda29-ab20-4c52-9d7f-5de23ab0e7ab",
-    "imageUrl" : "https://picsum.photos/200/300",
-    "name" : "Promo",
-    "shortDescription" : "Описание промо",
-  },
-  "allowedCalendars":
-  [
-    {
-    "id" : "841be7a9-a499-4036-a9f2-bd57eb182584",
-    "imageUrl" : "https://picsum.photos/200/300",
-    "name" : "Июньский драйв",
-    "shortDescription" : "Начинаем лето с самых неожиданных впечатлений",
-    "startDate" : "2022-06-01T15:43:26Z",
-    "taskCount" : 30
-  },
-    {
-    "id" : "841be7a9-a499-4036-a9f2-bd57eb182585",
-    "imageUrl" : "https://picsum.photos/200/300",
-    "name" : "Майский драйв",
-    "shortDescription" : "Начинаем лето с самых неожиданных впечатлений",
-    "startDate" : "2022-05-01T15:43:26Z",
-    "taskCount" : 20
-  }
-  ],
-  "searchHomeItem": {
-    "id" : "841be7a9-a499-4036-a9f2-bd57eb182587",
-    "historyItems" : ["String", "Секс"],
-    "type": "navigateToSearchPage"
-  }
+   "banner":{
+      "id":"eb6cda29-ab20-4c52-9d7f-5de23ab0e7ab",
+      "imageUrl":"https://picsum.photos/200/300",
+      "name":"Promo",
+      "shortDescription":"Описание промо"
+   },
+   "allowedCalendars":[
+      {
+         "id":"841be7a9-a499-4036-a9f2-bd57eb182584",
+         "imageUrl":"https://picsum.photos/200/300",
+         "name":"Июньский драйв",
+         "shortDescription":"Начинаем лето с самых неожиданных впечатлений",
+         "startDate":"2022-06-01T15:43:26Z",
+         "taskCount":30
+      },
+      {
+         "id":"841be7a9-a499-4036-a9f2-bd57eb182585",
+         "imageUrl":"https://picsum.photos/200/300",
+         "name":"Майский драйв",
+         "shortDescription":"Начинаем лето с самых неожиданных впечатлений",
+         "startDate":"2022-05-01T15:43:26Z",
+         "taskCount":20
+      }
+   ],
+   "searchHomeItem":{
+      "id":"841be7a9-a499-4036-a9f2-bd57eb182587",
+      "historyItems":[
+         "String",
+         "Секс"
+      ],
+      "type":"navigateToSearchPage"
+   },
+   "activeCalendarItems":[
+      {
+         "id":"841be7a9-a499-4036-a9f2-bd57eb182584",
+         "imageUrl":"https://picsum.photos/200/300",
+         "name":"Июньский драйв",
+         "shortDescription":"Начинаем лето с самых неожиданных впечатлений",
+         "startDate":"2022-06-01T15:43:26Z",
+         "taskCount":30,
+         "progress":1
+      },
+      {
+         "id":"841be7a9-a499-4036-a9f2-bd57eb182585",
+         "imageUrl":"https://picsum.photos/200/300",
+         "name":"Майский драйв",
+         "shortDescription":"Начинаем лето с самых неожиданных впечатлений",
+         "startDate":"2022-05-01T15:43:26Z",
+         "taskCount":20,
+         "progress":12
+      }
+   ]
 }
