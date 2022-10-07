@@ -1,10 +1,12 @@
-[
+{
+  "banner" : 
   {
     "id" : "eb6cda29-ab20-4c52-9d7f-5de23ab0e7ab",
-    "imageUrl" : "",
-    "name" : "",
-    "description" : "",
+    "imageUrl" : "https://picsum.photos/200/300",
+    "name" : "Promo",
+    "description" : "Описание промо",
   },
+  "allowedCalendars":
   [
     {
     "id" : "841be7a9-a499-4036-a9f2-bd57eb182584",
@@ -23,4 +25,4 @@
     "task_count" : 20
   }
   ]
-]
+}
