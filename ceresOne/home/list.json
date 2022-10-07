@@ -24,5 +24,10 @@
     "startDate" : "2022-05-01T15:43:26Z",
     "taskCount" : 20
   }
-  ]
+  ],
+  "searchHomeItem": {
+    "id" : "841be7a9-a499-4036-a9f2-bd57eb182587",
+    "historyItems" : ["String", "Секс"],
+    "type": "navigateToSearchPage"
+  }
 }
