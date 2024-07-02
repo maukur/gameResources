@@ -1,6 +1,6 @@
 {
   "remoteSettings": {
     "paywallType" : 0,
-    "showOffencive" : false
+    "showOffencive" : true
   }
 }
