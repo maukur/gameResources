@@ -12,18 +12,6 @@
       "type": "premium"
    },
    {
-      "id":"com.artemtishchenko.sexpediton.acrobatics",
-      "title":"Акробатика",
-      "description":"Это как алфавит, только с секс позами. Без них никуда",
-      "image":"image_acrobatic",
-      "itemsInSet":7,
-      "isPopular":false,
-      "difficult":3,
-      "detailDescription":"Тут вы изучите необходимый минимум для страстного экшена в постели. Знания, которые точно пригодятся и скрасят вашу жизнь разнообразием",
-      "exampleQuestion":"Попробуйте позу \"колыбель\"",
-      "type": "free"
-   },
-   {
       "id":"com.artemtishchenko.sexpediton.gettingknowing",
       "title":"Знакомство",
       "description":"Набор для тех, кто только начал отношения",
@@ -34,6 +22,18 @@
       "detailDescription":"Всё только начинает, а этот набор задаст классный старт для ваших отношений",
       "exampleQuestion":"Расскажите друг другу о своих эрогенных зонах",
       "type": "normal"
+   },
+   {
+      "id":"com.artemtishchenko.sexpediton.acrobatics",
+      "title":"Акробатика",
+      "description":"Это как алфавит, только с секс позами. Без них никуда",
+      "image":"image_acrobatic",
+      "itemsInSet":7,
+      "isPopular":false,
+      "difficult":3,
+      "detailDescription":"Тут вы изучите необходимый минимум для страстного экшена в постели. Знания, которые точно пригодятся и скрасят вашу жизнь разнообразием",
+      "exampleQuestion":"Попробуйте позу \"колыбель\"",
+      "type": "free"
    },
    {
       "id":"com.artemtishchenko.sexpediton.gentle",
