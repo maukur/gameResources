@@ -21,7 +21,7 @@
       "difficult":1,
       "detailDescription":"Всё только начинает, а этот набор задаст классный старт для ваших отношений",
       "exampleQuestion":"Расскажите друг другу о своих эрогенных зонах",
-      "type": "normal"
+      "type": "free"
    },
    {
       "id":"com.artemtishchenko.sexpediton.acrobatics",
@@ -33,7 +33,7 @@
       "difficult":3,
       "detailDescription":"Тут вы изучите необходимый минимум для страстного экшена в постели. Знания, которые точно пригодятся и скрасят вашу жизнь разнообразием",
       "exampleQuestion":"Попробуйте позу \"колыбель\"",
-      "type": "free"
+      "type": "for_review"
    },
    {
       "id":"com.artemtishchenko.sexpediton.gentle",
