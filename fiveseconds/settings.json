@@ -1,7 +1,7 @@
  {
       "remoteSettings": {
         "en": {
-          "paywallType": 0,
+          "paywallType": 1,
           "showReviewSet": false,
           "shouldShowOnStartPaywall": true
         },
