@@ -2,7 +2,7 @@
       "remoteSettings": {
         "en": {
           "paywallType": 0,
-          "showReviewSet": true,
+          "showReviewSet": false,
           "shouldShowOnStartPaywall": false
         },
         "ru": {
