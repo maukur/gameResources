@@ -2,12 +2,12 @@
       "remoteSettings": {
         "en": {
           "paywallType": 0,
-          "showReviewSet": false,
+          "showReviewSet": true,
           "shouldShowOnStartPaywall": false
         },
         "ru": {
           "paywallType": 1,
-          "showReviewSet": false,
+          "showReviewSet": true,
           "shouldShowOnStartPaywall": false
         }
       }
