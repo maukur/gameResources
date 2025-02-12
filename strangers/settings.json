@@ -6,7 +6,7 @@
           "shouldShowOnStartPaywall": false
         },
         "ru": {
-          "paywallType": 1,
+          "paywallType": 0,
           "showReviewSet": true,
           "shouldShowOnStartPaywall": false
         }
