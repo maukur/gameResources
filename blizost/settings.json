@@ -7,7 +7,7 @@
         },
         "ru": {
           "paywallType": 0,
-          "showReviewSet": false,
+          "showReviewSet": true,
           "shouldShowOnStartPaywall": false
         }
       }
