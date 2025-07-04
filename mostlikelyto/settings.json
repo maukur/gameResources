@@ -1,0 +1,14 @@
+{
+      "remoteSettings": {
+        "en": {
+          "paywallType": 0,
+          "showReviewSet": true,
+          "shouldShowOnStartPaywall": false
+        },
+        "ru": {
+          "paywallType": 0,
+          "showReviewSet": true,
+          "shouldShowOnStartPaywall": false
+        }
+      }
+}
