@@ -3,13 +3,13 @@
         "en": {
           "paywallType": 0,
           "showReviewSet": true,
-          "reviewSetId": "none", 
+          "reviewSetId": "flirtlite",
           "shouldShowOnStartPaywall": false
         },
         "ru": {
           "paywallType": 0,
           "showReviewSet": true,
-          "reviewSetId": "none", 
+          "reviewSetId": "flirtlite",
           "shouldShowOnStartPaywall": false
         }
       }
