@@ -1,16 +1,18 @@
 {
-      "remoteSettings": {
-        "en": {
-          "paywallType": 0,
-          "showReviewSet": true,
-          "reviewSetId": "",
-          "shouldShowOnStartPaywall": false
-        },
-        "ru": {
-          "paywallType": 0,
-          "showReviewSet": true,
-          "reviewSetId": "",
-          "shouldShowOnStartPaywall": false
-        }
-      }
+  "remoteSettings": {
+    "en": {
+      "paywallType": 0,
+      "showReviewSet": true,
+      "reviewSetId": "",
+      "shouldShowOnStartPaywall": false,
+      "start_flow": "game"
+    },
+    "ru": {
+      "paywallType": 0,
+      "showReviewSet": true,
+      "reviewSetId": "",
+      "shouldShowOnStartPaywall": false,
+      "start_flow": "onboarding"
+    }
+  }
 }
