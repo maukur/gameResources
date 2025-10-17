@@ -3,14 +3,14 @@
     "en": {
       "paywallType": 0,
       "showReviewSet": true,
-      "reviewSetId": "",
+      "reviewSetId": "digitalDrama",
       "shouldShowOnStartPaywall": false,
       "start_flow": "game"
     },
     "ru": {
       "paywallType": 0,
       "showReviewSet": true,
-      "reviewSetId": "",
+      "reviewSetId": "digitalDrama",
       "shouldShowOnStartPaywall": false,
       "start_flow": "onboarding"
     }
