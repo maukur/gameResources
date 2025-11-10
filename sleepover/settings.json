@@ -5,7 +5,7 @@
       "showReviewSet": true,
       "reviewSetId": "digitalDrama",
       "shouldShowOnStartPaywall": false,
-      "start_flow": "game"
+      "start_flow": "onboarding"
     },
     "ru": {
       "paywallType": 0,
