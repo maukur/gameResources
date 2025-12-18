@@ -1,14 +1,18 @@
- {
-      "remoteSettings": {
-        "en": {
-          "paywallType": 0,
-          "showReviewSet": true,
-          "shouldShowOnStartPaywall": true
-        },
-        "ru": {
-          "paywallType": 1,
-          "showReviewSet": false,
-          "shouldShowOnStartPaywall": false
-        }
-      }
+{
+  "remoteSettings": {
+    "en": {
+      "paywall_type": 0,
+      "review_set": "com.artemtishchenko.danetky.adult",
+      "should_show_on_start_paywall": false,
+      "start_flow": "onboarding"
+      "hidden_sets": ["com.artemtishchenko.danetky.adult"]
+    },
+    "ru": {
+      "paywall_type": 0,
+      "review_set": "com.artemtishchenko.danetky.adult",
+      "should_show_on_start_paywall": false,
+      "start_flow": "onboarding"
+      "hidden_sets": ["com.artemtishchenko.danetky.adult"]
     }
+  }
+}
