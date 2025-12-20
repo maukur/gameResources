@@ -5,14 +5,14 @@
       "review_set": "com.artemtishchenko.danetky.adult",
       "should_show_on_start_paywall": false,
       "start_flow": "onboarding",
-      "hidden_sets": ["com.artemtishchenko.danetky.adult", "com.artemtishchenko.danetky.ads"]
+      "hidden_sets": ["com.artemtishchenko.danetky.adult", "com.artemtishchenko.danetky.ads", "com.artemtishchenko.danetky.vulgar"]
     },
     "ru": {
       "paywall_type": 0,
       "review_set": "com.artemtishchenko.danetky.adult",
       "should_show_on_start_paywall": false,
       "start_flow": "onboarding",
-      "hidden_sets": ["com.artemtishchenko.danetky.adult", "com.artemtishchenko.danetky.ads"]
+      "hidden_sets": ["com.artemtishchenko.danetky.adult", "com.artemtishchenko.danetky.ads", "com.artemtishchenko.danetky.vulgar"]
     }
   }
 }
