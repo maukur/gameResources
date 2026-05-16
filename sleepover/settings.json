@@ -5,7 +5,7 @@
       "showReviewSet": true,
       "reviewSetId": "digitalDrama",
       "shouldShowOnStartPaywall": false,
-      "shouldShowPaywallOnPlayButton": false,
+      "shouldShowPaywallOnPlayButton": true,
       "paywallCloseButtonDelay": 3,
       "start_flow": "onboarding"
     },
@@ -14,7 +14,7 @@
       "showReviewSet": true,
       "reviewSetId": "digitalDrama",
       "shouldShowOnStartPaywall": false,
-      "shouldShowPaywallOnPlayButton": false,
+      "shouldShowPaywallOnPlayButton": true,
       "paywallCloseButtonDelay": 3,
       "start_flow": "onboarding"
     }
