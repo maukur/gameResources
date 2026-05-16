@@ -5,6 +5,7 @@
       "showReviewSet": true,
       "reviewSetId": "digitalDrama",
       "shouldShowOnStartPaywall": false,
+      "paywallCloseButtonDelay": 3,
       "start_flow": "onboarding"
     },
     "ru": {
@@ -12,6 +13,7 @@
       "showReviewSet": true,
       "reviewSetId": "digitalDrama",
       "shouldShowOnStartPaywall": false,
+      "paywallCloseButtonDelay": 3,
       "start_flow": "onboarding"
     }
   }
