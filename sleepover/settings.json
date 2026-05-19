@@ -3,19 +3,19 @@
     "en": {
       "paywallType": 0,
       "showReviewSet": true,
-      "reviewSetId": "",
+      "reviewSetId": "digitalDrama",
       "shouldShowOnStartPaywall": false,
-      "shouldShowPaywallOnPlayButton": false,
-      "paywallCloseButtonDelay": 0,
+      "shouldShowPaywallOnPlayButton": true,
+      "paywallCloseButtonDelay": 3,
       "start_flow": "onboarding"
     },
     "ru": {
       "paywallType": 0,
       "showReviewSet": true,
-      "reviewSetId": "",
+      "reviewSetId": "digitalDrama",
       "shouldShowOnStartPaywall": false,
-      "shouldShowPaywallOnPlayButton": false,
-      "paywallCloseButtonDelay": 0,
+      "shouldShowPaywallOnPlayButton": true,
+      "paywallCloseButtonDelay": 3,
       "start_flow": "onboarding"
     }
   }
