@@ -2,20 +2,20 @@
   "remoteSettings": {
     "en": {
       "paywallType": 0,
-      "showReviewSet": false,
-      "reviewSetId": "",
+      "showReviewSet": true,
+      "reviewSetId": "digitalDrama",
       "shouldShowOnStartPaywall": false,
       "shouldShowPaywallOnPlayButton": true,
-      "paywallCloseButtonDelay": 0,
+      "paywallCloseButtonDelay": 3,
       "start_flow": "onboarding"
     },
     "ru": {
       "paywallType": 0,
-      "showReviewSet": false,
-      "reviewSetId": "",
+      "showReviewSet": true,
+      "reviewSetId": "digitalDrama",
       "shouldShowOnStartPaywall": false,
       "shouldShowPaywallOnPlayButton": true,
-      "paywallCloseButtonDelay": 0,
+      "paywallCloseButtonDelay": 3,
       "start_flow": "onboarding"
     }
   }
